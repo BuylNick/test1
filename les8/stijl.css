@@ -1,0 +1,197 @@
+main{
+display: grid;
+grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
+grid-template-rows: 20vw 20vw 20vw ;
+font-family: sans-serif;
+}
+
+nav{
+  background-color: lightgray;
+  line-height: 300%;
+  font-size: 1vw;
+}
+
+
+nav:hover {
+    color: white;
+    background-color: grey;
+
+    background-color: #AD310B;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+
+  }
+
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+
+li{
+    margin-left: 1vw;
+}
+
+
+p{
+  color: white;
+  background-color: black;
+  padding: 0.2vw;
+  margin-top: 15vw;
+  margin-left: 1vw;
+  position: absolute;
+  display: block;
+  font-size: 1vw;
+}
+
+
+h1{
+margin-left: 1vw;
+background-color: yellow;
+padding: 0.2vw;
+margin-top: 1vw;
+display: inline-block;
+font-size: 1.5vw;
+}
+
+h2{
+margin-left: 1vw;
+background-color: lightgreen;
+padding: 0.2vw;
+margin-top: 1vw;
+display: inline-block;
+font-size: 1.5vw;
+}
+
+h3{
+margin-left: 1vw;
+background-color: #B5594D;
+padding: 0.2vw;
+margin-top: 1vw;
+display: inline-block;
+font-size: 1.5vw;
+}
+
+h4{
+  font-size: 2vw;
+  margin-left: 1vw;
+  padding: 0.2vw;
+  margin-top: 1vw;
+  display: inline-block;
+
+}
+
+
+
+.chrome{
+    background-image: url("chrome.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: black;
+
+}
+
+.facebook{
+    background-image: url("FB.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: white;
+
+}
+
+.instagram{
+    background-image: url("instagram.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: #eeeae2;
+}
+
+.netflix{
+    background-image: url("netflix.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: black;
+}
+
+.icloud{
+    background-image: url("icloud.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: white;
+}
+
+.outlook{
+    background-image: url("outlook.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: #eeeae2;
+}
+
+.twitter{
+    background-image: url("twitter.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: black;
+}
+
+.apple{
+    background-image: url("apple.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: white;
+}
+
+.pizza{
+    background-image: url("pizza.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: #eeeae2;
+}
+
+.wiki{
+    background-image: url("wiki.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: black;
+}
+.ap{
+    background-image: url("ap.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: white;
+}
+.gag{
+    background-image: url("9gag.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: #eeeae2;
+}
+.sporza{
+    background-image: url("sporza.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: black;
+}
+
+.stubru{
+    background-image: url("stubru.png");
+    background-repeat: no-repeat;
+    background-size: 15vw;
+    background-position: center center;
+    background-color: white;
+}
